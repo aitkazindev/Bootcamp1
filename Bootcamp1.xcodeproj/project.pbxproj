@@ -11,6 +11,7 @@
 		8F30D2112CAD75710076F247 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F30D2102CAD75710076F247 /* ContentView.swift */; };
 		8F30D2132CAD75760076F247 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F30D2122CAD75760076F247 /* Assets.xcassets */; };
 		8F30D2162CAD75760076F247 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F30D2152CAD75760076F247 /* Preview Assets.xcassets */; };
+		8F30D21D2CAD792D0076F247 /* Bootcamp1_Text.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F30D21C2CAD792D0076F247 /* Bootcamp1_Text.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		8F30D2102CAD75710076F247 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8F30D2122CAD75760076F247 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8F30D2152CAD75760076F247 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8F30D21C2CAD792D0076F247 /* Bootcamp1_Text.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp1_Text.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				8F30D20E2CAD75710076F247 /* Bootcamp1App.swift */,
+				8F30D21C2CAD792D0076F247 /* Bootcamp1_Text.swift */,
 				8F30D2102CAD75710076F247 /* ContentView.swift */,
 				8F30D2122CAD75760076F247 /* Assets.xcassets */,
 				8F30D2142CAD75760076F247 /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8F30D21D2CAD792D0076F247 /* Bootcamp1_Text.swift in Sources */,
 				8F30D2112CAD75710076F247 /* ContentView.swift in Sources */,
 				8F30D20F2CAD75710076F247 /* Bootcamp1App.swift in Sources */,
 			);
