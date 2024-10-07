@@ -16,6 +16,7 @@
 		8FCF5B0C2CB1C48800C2D519 /* Bootcamp4_Gradients.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCF5B0B2CB1C48800C2D519 /* Bootcamp4_Gradients.swift */; };
 		8FD2F2962CB01FEA00245F4F /* Bootcamp3_Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD2F2952CB01FEA00245F4F /* Bootcamp3_Colors.swift */; };
 		8FF0AEB52CB2B82900DAB858 /* Bootcamp5_SystemIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF0AEB42CB2B82900DAB858 /* Bootcamp5_SystemIcon.swift */; };
+		8FF0AEBC2CB44DAE00DAB858 /* Bootcamp6_Frames.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF0AEBB2CB44DAE00DAB858 /* Bootcamp6_Frames.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		8FCF5B0B2CB1C48800C2D519 /* Bootcamp4_Gradients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp4_Gradients.swift; sourceTree = "<group>"; };
 		8FD2F2952CB01FEA00245F4F /* Bootcamp3_Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp3_Colors.swift; sourceTree = "<group>"; };
 		8FF0AEB42CB2B82900DAB858 /* Bootcamp5_SystemIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp5_SystemIcon.swift; sourceTree = "<group>"; };
+		8FF0AEBB2CB44DAE00DAB858 /* Bootcamp6_Frames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp6_Frames.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				8FD2F2952CB01FEA00245F4F /* Bootcamp3_Colors.swift */,
 				8FCF5B0B2CB1C48800C2D519 /* Bootcamp4_Gradients.swift */,
 				8FF0AEB42CB2B82900DAB858 /* Bootcamp5_SystemIcon.swift */,
+				8FF0AEBB2CB44DAE00DAB858 /* Bootcamp6_Frames.swift */,
 				8F30D2102CAD75710076F247 /* ContentView.swift */,
 				8F30D2122CAD75760076F247 /* Assets.xcassets */,
 				8F30D2142CAD75760076F247 /* Preview Content */,
@@ -153,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8F30D21D2CAD792D0076F247 /* Bootcamp1_Text.swift in Sources */,
+				8FF0AEBC2CB44DAE00DAB858 /* Bootcamp6_Frames.swift in Sources */,
 				8F30D2112CAD75710076F247 /* ContentView.swift in Sources */,
 				8F992B942CAEE4BA0065AEC0 /* Bootcamp2_Shapes.swift in Sources */,
 				8FF0AEB52CB2B82900DAB858 /* Bootcamp5_SystemIcon.swift in Sources */,
