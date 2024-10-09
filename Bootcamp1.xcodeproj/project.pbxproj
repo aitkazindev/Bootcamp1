@@ -18,6 +18,7 @@
 		8FF0AEB52CB2B82900DAB858 /* Bootcamp5_SystemIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF0AEB42CB2B82900DAB858 /* Bootcamp5_SystemIcon.swift */; };
 		8FF0AEBC2CB44DAE00DAB858 /* Bootcamp6_Frames.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF0AEBB2CB44DAE00DAB858 /* Bootcamp6_Frames.swift */; };
 		8FF0AEC22CB5D84600DAB858 /* Bootcamp7_Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF0AEC12CB5D84600DAB858 /* Bootcamp7_Images.swift */; };
+		8FF0AEE02CB7319F00DAB858 /* Bootcamp8_Overlays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF0AEDF2CB7319F00DAB858 /* Bootcamp8_Overlays.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		8FF0AEB42CB2B82900DAB858 /* Bootcamp5_SystemIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp5_SystemIcon.swift; sourceTree = "<group>"; };
 		8FF0AEBB2CB44DAE00DAB858 /* Bootcamp6_Frames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp6_Frames.swift; sourceTree = "<group>"; };
 		8FF0AEC12CB5D84600DAB858 /* Bootcamp7_Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp7_Images.swift; sourceTree = "<group>"; };
+		8FF0AEDF2CB7319F00DAB858 /* Bootcamp8_Overlays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp8_Overlays.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				8FF0AEB42CB2B82900DAB858 /* Bootcamp5_SystemIcon.swift */,
 				8FF0AEBB2CB44DAE00DAB858 /* Bootcamp6_Frames.swift */,
 				8FF0AEC12CB5D84600DAB858 /* Bootcamp7_Images.swift */,
+				8FF0AEDF2CB7319F00DAB858 /* Bootcamp8_Overlays.swift */,
 				8F30D2102CAD75710076F247 /* ContentView.swift */,
 				8F30D2122CAD75760076F247 /* Assets.xcassets */,
 				8F30D2142CAD75760076F247 /* Preview Content */,
@@ -164,6 +167,7 @@
 				8F30D2112CAD75710076F247 /* ContentView.swift in Sources */,
 				8F992B942CAEE4BA0065AEC0 /* Bootcamp2_Shapes.swift in Sources */,
 				8FF0AEB52CB2B82900DAB858 /* Bootcamp5_SystemIcon.swift in Sources */,
+				8FF0AEE02CB7319F00DAB858 /* Bootcamp8_Overlays.swift in Sources */,
 				8FCF5B0C2CB1C48800C2D519 /* Bootcamp4_Gradients.swift in Sources */,
 				8FD2F2962CB01FEA00245F4F /* Bootcamp3_Colors.swift in Sources */,
 				8F30D20F2CAD75710076F247 /* Bootcamp1App.swift in Sources */,
