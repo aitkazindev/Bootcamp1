@@ -14,6 +14,7 @@
 		8F30D21D2CAD792D0076F247 /* Bootcamp1_Text.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F30D21C2CAD792D0076F247 /* Bootcamp1_Text.swift */; };
 		8F992B942CAEE4BA0065AEC0 /* Bootcamp2_Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F992B932CAEE4BA0065AEC0 /* Bootcamp2_Shapes.swift */; };
 		8FA8C1392CBB5E2F005CF0DD /* Bootcomp10_EnumsInits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FA8C1382CBB5E2F005CF0DD /* Bootcomp10_EnumsInits.swift */; };
+		8FA8C13B2CBB6C24005CF0DD /* Bootcamp14_ForEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FA8C13A2CBB6C24005CF0DD /* Bootcamp14_ForEach.swift */; };
 		8FCF5B0C2CB1C48800C2D519 /* Bootcamp4_Gradients.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCF5B0B2CB1C48800C2D519 /* Bootcamp4_Gradients.swift */; };
 		8FD2F2962CB01FEA00245F4F /* Bootcamp3_Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD2F2952CB01FEA00245F4F /* Bootcamp3_Colors.swift */; };
 		8FF0AEB52CB2B82900DAB858 /* Bootcamp5_SystemIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF0AEB42CB2B82900DAB858 /* Bootcamp5_SystemIcon.swift */; };
@@ -32,6 +33,7 @@
 		8F30D21C2CAD792D0076F247 /* Bootcamp1_Text.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp1_Text.swift; sourceTree = "<group>"; };
 		8F992B932CAEE4BA0065AEC0 /* Bootcamp2_Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp2_Shapes.swift; sourceTree = "<group>"; };
 		8FA8C1382CBB5E2F005CF0DD /* Bootcomp10_EnumsInits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcomp10_EnumsInits.swift; sourceTree = "<group>"; };
+		8FA8C13A2CBB6C24005CF0DD /* Bootcamp14_ForEach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp14_ForEach.swift; sourceTree = "<group>"; };
 		8FCF5B0B2CB1C48800C2D519 /* Bootcamp4_Gradients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp4_Gradients.swift; sourceTree = "<group>"; };
 		8FD2F2952CB01FEA00245F4F /* Bootcamp3_Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp3_Colors.swift; sourceTree = "<group>"; };
 		8FF0AEB42CB2B82900DAB858 /* Bootcamp5_SystemIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp5_SystemIcon.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				8FF0AEDF2CB7319F00DAB858 /* Bootcamp8_Overlays.swift */,
 				8FF0AEE12CB84F3600DAB858 /* Bootcamp9_Stacks.swift */,
 				8FA8C1382CBB5E2F005CF0DD /* Bootcomp10_EnumsInits.swift */,
+				8FA8C13A2CBB6C24005CF0DD /* Bootcamp14_ForEach.swift */,
 				8F30D2102CAD75710076F247 /* ContentView.swift */,
 				8F30D2122CAD75760076F247 /* Assets.xcassets */,
 				8F30D2142CAD75760076F247 /* Preview Content */,
@@ -179,6 +182,7 @@
 				8FD2F2962CB01FEA00245F4F /* Bootcamp3_Colors.swift in Sources */,
 				8FF0AEE22CB84F3600DAB858 /* Bootcamp9_Stacks.swift in Sources */,
 				8F30D20F2CAD75710076F247 /* Bootcamp1App.swift in Sources */,
+				8FA8C13B2CBB6C24005CF0DD /* Bootcamp14_ForEach.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
