@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct Bootcamp19: View {
+struct Bootcamp19_State: View {
     
     @State var backgroundColor: Color = Color.green
     @State var myTitle: String = "My Title"
@@ -49,5 +49,5 @@ struct Bootcamp19: View {
 }
 
 #Preview {
-    Bootcamp19()
+    Bootcamp19_State()
 }
