@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct Bootcamp218_Buttons: View {
+struct Bootcamp18_Buttons: View {
     
     @State var title: String = "This is my title"
     var body: some View {
@@ -64,5 +64,5 @@ struct Bootcamp218_Buttons: View {
 }
 
 #Preview {
-    Bootcamp218_Buttons()
+    Bootcamp18_Buttons()
 }
